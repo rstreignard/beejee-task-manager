@@ -1,0 +1,11 @@
+.main {
+    margin: 60px auto;
+}
+
+.main h1 {
+    margin-bottom: 20px;
+}
+
+.main .sortable-column {
+    text-decoration: none;
+}
